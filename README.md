@@ -1,7 +1,7 @@
 # SBI_Banking_Insights
 # SBI Banking Insights & DAX Analytics
 
-![Dashboard Overview](PowerBI_Dashboard.png)
+
 
 ## Project Overview
 This project analyzes banking transaction data and customer profiles to uncover key patterns and trends in banking behavior. Utilizing Power BI and DAX, an interactive dashboard was developed to visualize critical insights, optimize branch performance, and improve customer segmentation.
