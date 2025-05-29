@@ -35,13 +35,7 @@ To analyze transactional trends and customer profiles to provide actionable insi
 - Applied **DAX** calculations for insights on average balances, loan trends, and the impact of credit scores on loan amounts.
 - Conducted branch performance analysis, identifying over-performing and under-performing branches.
 
-## How to Use
-1. Clone this repository to your local machine.
-   ```bash
-   git clone https://github.com/shreya1m/Banking-Insights-DAX-Analytics.git
-    ```
-3. Open the provided `.pbix` file in Power BI to explore the interactive dashboard and perform your own analyses.
-4. Ensure your dataset structure aligns with the model used in the project for accurate results.
+
 
 ## Files in the Repository
 - `README.md`: This documentation file.
